@@ -88,7 +88,7 @@ int main() {
     printf("PIB per Capita: %d\n", pibPerCapita1 > pibPerCapita2 ? 1 : 0);
     printf("Super Poder: %d\n", superPoder1 > superPoder2 ? 1 : 0);
 
-    // (Opcional) Mostrar os valores calculados
+    // Mostrar os valores calculados
     printf("\n--- Super Poder e Atributos Calculados ---\n");
     printf("Carta 1 - Densidade: %.2f, PIB per Capita: %.2f, Super Poder: %.2f\n", densidade1, pibPerCapita1, superPoder1);
     printf("Carta 2 - Densidade: %.2f, PIB per Capita: %.2f, Super Poder: %.2f\n", densidade2, pibPerCapita2, superPoder2);
